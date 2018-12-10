@@ -41,3 +41,6 @@ As a developer, I want to learn about the diffent types of apps the design syste
 2. Find how to learn about building an app that allows friends to send data back and forth to each other.
 
 [Launch Demo](https://invis.io/A4PJ2B3N8EC#/335953160_Home)
+
+### Early UI Exploration
+![Early UI Explroation](https://glennsorrentino.keybase.pub/design-system/home.png)
