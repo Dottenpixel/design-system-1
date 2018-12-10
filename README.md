@@ -5,8 +5,9 @@ A resource to learn best practices for user research, UI, usability, and voice a
 
 ## Mission Statement
 
-To serve the internet freedom and open source community with thoughtful guidance for building inclusive, usable, scalable, and beautiful apps. 
-Create a security-minded design system that organizations can use to keep their apps up-to-date with the current research, best practices, and standards to ensure the best user experience for their global community.
+To serve the internet freedom and open source community with thoughtful guidance for building inclusive, usable, scalable, and beautiful apps.
+
+To create a security-minded design system that organizations can use to keep their apps up-to-date with the current research, best practices, and standards to ensure the best user experience for their global community.
 
 ## What Problem Are We Solving?
 
