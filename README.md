@@ -43,4 +43,4 @@ As a developer, I want to learn about the diffent types of apps the design syste
 [Launch Demo](https://invis.io/A4PJ2B3N8EC#/335953160_Home)
 
 ### Early UI Exploration
-![Early UI Explroation](https://glennsorrentino.keybase.pub/design-system/home.png)
+![Early UI Explroation](https://glennsorrentino.keybase.pub/design-system/demo.gif)
