@@ -31,3 +31,13 @@ Not-for-profit organizations operate on limited budgets and often need to priori
 ## The Opportunity
 
 By creating an open source design system driven by the core use cases of the internet freedom community, we can reduce the inconsistency in UX, provide accessible solutions, and provide a low-to-no-maintenance system that keeps projects always up-to-date with the changing design landscape.
+
+## Demo
+### Use Case
+As a developer, I want to learn about the diffent types of apps the design system offers so that I can learn about usable, accessible, and scalable patterns.
+
+### Task
+1. Find the out of the box app layouts that you can use when building your app.
+2. Find how to learn about building an app that allows friends to send data back and forth to each other.
+
+[Launch Demo](https://invis.io/A4PJ2B3N8EC#/335953160_Home)
