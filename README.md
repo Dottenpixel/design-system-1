@@ -39,7 +39,7 @@ As a developer, I want to learn about the diffent types of apps the design syste
 ### Tasks
 1. Find the out of the box app layouts that you can use when building your app.
 2. Find how to learn about building an app that allows friends to send data back and forth to each other.
-3. Find the accessible markup and copy it so that you can use it.
+3. Find the markup for the template and copy it.
 
 [Launch Demo](https://invis.io/A4PJ2B3N8EC#/335953160_Home)
 
