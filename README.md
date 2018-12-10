@@ -36,7 +36,7 @@ By creating an open source design system driven by the core use cases of the int
 ### Use Case
 As a developer, I want to learn about the diffent types of apps the design system offers so that I can learn about usable, accessible, and scalable patterns.
 
-### Task
+### Tasks
 1. Find the out of the box app layouts that you can use when building your app.
 2. Find how to learn about building an app that allows friends to send data back and forth to each other.
 
