@@ -39,8 +39,9 @@ As a developer, I want to learn about the diffent types of apps the design syste
 ### Tasks
 1. Find the out of the box app layouts that you can use when building your app.
 2. Find how to learn about building an app that allows friends to send data back and forth to each other.
+3. Find the accessible markup and copy it so that you can use it.
 
 [Launch Demo](https://invis.io/A4PJ2B3N8EC#/335953160_Home)
 
-### Early UI Exploration
-![Early UI Explroation](https://glennsorrentino.keybase.pub/design-system/demo.gif)
+### Early UX Exploration
+![Early UX Explroation](https://glennsorrentino.keybase.pub/design-system/demo.gif)
