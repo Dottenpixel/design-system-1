@@ -15,12 +15,17 @@ Not-for-profit organizations operate on limited budgets and often need to priori
 
 ## The Solution Space 
 
-• The tools available today are a collection of atomic components that designers and developers use in piecemeal fashion to create their apps. 
-• These solutions tell you what the component is, but doesn’t think about the systems that those components belong in. An example is a data table. There are many choices for tables, search, filtering, sorting, pagination, etc, but none consider how they should be used and how the system scales.
-• No guidelines around voice and tone.
-• The solutions today do not focus on core use cases, leaving app creators in a position to need usability, accessibility, and visual design experts.
-• The result is inconsistent or unusable UX in fragmented ecosystems.
-• Some solutions promote poor usability.
+* The tools available today are a collection of atomic components that designers and developers use in piecemeal fashion to create their apps. 
+
+* These solutions tell you what the component is, but doesn’t think about the systems that those components belong in. An example is a data table. There are many choices for tables, search, filtering, sorting, pagination, etc, but none consider how they should be used and how the system scales.
+
+* No guidelines around voice and tone.
+
+* The solutions today do not focus on core use cases, leaving app creators in a position to need usability, accessibility, and visual design experts.
+
+* The result is inconsistent or unusable UX in fragmented ecosystems.
+
+* Some solutions promote poor usability.
 
 ## The Opportunity
 
